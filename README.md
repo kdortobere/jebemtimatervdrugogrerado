@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## PIZDA TI MATERNA A TO ZDEJ DELA AL NE
 
-You can use the [editor on GitHub](https://github.com/kdortobere/jebemtimatervdrugogrerado/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+v teoriji bi mogl ampak nism cist zihr ker yachim uporabla en str crap k zgleda cist drgac kukr tole moje :D
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
