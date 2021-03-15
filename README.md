@@ -8,7 +8,11 @@ navadn text samo tapkam vmes KAR JE MEN MAL ČUDN k se mi zdi da sm v css se jeb
 če pa napišem tkole je pa navadn text
 
 in kle v navadnga napišem nekestrešice (altgr 7) 3 pa markdown in dobim tole pod to vrstico
+
 ```markdown
+me nekej jebe ker sm valda pobrisov navodilček hahaha ampak zdej znam tole nalept
+:radioactive::radioactive::radioactive::radioactive::radioactive::radioactive:
+
 # valda z veliko naslov tega ekrančka al kva
 in navaden text nižje
 
@@ -30,7 +34,7 @@ to pa lahko napišem še zvezdica2krtBESEDILO2krtzvezdica in dobim **bold** ali 
 
 ## LINKI
 za linkanje shita rabm altgrFinG pa napišem altgrFNEKEJZALINKaltgrG oklepajURLzaklepaj torej...
-[KDORTOBERE] (http://www.kdortobere.si) 
+[KDORTOBERE] (http://www.kdortobere.si/) 
 
 ## fotke
 za slikco pa še mal pobrskam
