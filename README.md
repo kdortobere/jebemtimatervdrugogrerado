@@ -2,7 +2,8 @@
 
 v teoriji bi mogl ampak nism cist zihr ker yachim uporabla en str crap k zgleda cist drgac kukr tole moje :D
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+OKEJ, dela! sm dojel ... prblizn.
+zdej je pa tamala vstala pa grem bit varusek ati :D
 
 ### Markdown
 
