@@ -1,4 +1,4 @@
-## PIZDA TI MATERNA A TO ZDEJ DELA AL NE
+# PIZDA TI MATERNA A TO ZDEJ DELA AL NE
 
 v teoriji bi mogl ampak nism cist zihr ker yachim uporabla en str crap k zgleda cist drgac kukr tole moje :D
 
