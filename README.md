@@ -1,4 +1,6 @@
-# PIZDA TI MATERNA A TO ZDEJ DELA AL NE
+# če dam en hešteg mam velk naslovPIZDA TI MATERNA A TO ZDEJ DELA AL NE
+## če dam dva heštega mam podnaslov
+### če dam 3 mam podpodnaslov
 
 v teoriji bi mogl ampak nism cist zihr ker yachim uporabla en str crap k zgleda cist drgac kukr tole moje :D
 
