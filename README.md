@@ -30,7 +30,7 @@ to pa lahko napišem še zvezdica2krtBESEDILO2krtzvezdica in dobim **bold** ali 
 
 ## LINKI
 za linkanje shita rabm altgrFinG pa napišem altgrFNEKEJZALINKaltgrG oklepajURLzaklepaj torej...
-[KDORTOBERE] (www.kdortobere.si) 
+[KDORTOBERE] (http://www.kdortobere.si) 
 
 ## fotke
 za slikco pa še mal pobrskam
