@@ -2,6 +2,8 @@
 ## če dam dva heštega mam podnaslov
 ### če dam 3 mam podpodnaslov
 
+:dollar:
+
 navadn text samo tapkam vmes KAR JE MEN MAL ČUDN k se mi zdi da sm v css se jebov s tem?
 
 ### evo tri heštegi pa je podpodnaslov
@@ -14,7 +16,8 @@ me nekej jebe ker sm valda pobrisov navodilček hahaha ampak zdej znam tole nale
 :radioactive: :radioactive: :radioactive: :radioactive: :radioactive: :radioactive:
 # očitno ne znam :)
 ## kaj pa tole 
-:dollar:
+
+
 
 # valda z veliko naslov tega ekrančka al kva
 in navaden text nižje
