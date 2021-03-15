@@ -12,6 +12,9 @@ in kle v navadnga napišem nekestrešice (altgr 7) 3 pa markdown in dobim tole p
 ```markdown
 me nekej jebe ker sm valda pobrisov navodilček hahaha ampak zdej znam tole nalept
 :radioactive: :radioactive: :radioactive: :radioactive: :radioactive: :radioactive:
+# očitno ne znam :)
+## kaj pa tole 
+:dollar:
 
 # valda z veliko naslov tega ekrančka al kva
 in navaden text nižje
