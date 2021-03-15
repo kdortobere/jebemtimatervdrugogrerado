@@ -1,40 +1,39 @@
-# če dam en hešteg mam velk naslovPIZDA TI MATERNA A TO ZDEJ DELA AL NE
+# če dam en hešteg mam velk naslov
 ## če dam dva heštega mam podnaslov
 ### če dam 3 mam podpodnaslov
 
-v teoriji bi mogl ampak nism cist zihr ker yachim uporabla en str crap k zgleda cist drgac kukr tole moje :D
+navadn text samo tapkam vmes KAR JE MEN MAL ČUDN k se mi zdi da sm v css se jebov s tem?
 
-OKEJ, dela! sm dojel ... prblizn.
-zdej je pa tamala vstala pa grem bit varusek ati :D
+### evo tri heštegi pa je podpodnaslov
+če pa napišem tkole je pa navadn text
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+in kle v navadnga napišem nekestrešice (altgr 7) 3 pa markdown in dobim tole pod to vrstico
 ```markdown
-Syntax highlighted code block
+# valda z veliko naslov tega ekrančka al kva
+in navaden text nižje
 
-# Header 1
-## Header 2
-### Header 3
+in seveda še 
+## SEZNAM
+- lista
+- 2lista
+- 3lista
 
-- Bulleted
-- List
+ali 
 
-1. Numbered
-2. List
+## SEZNAM 2
+1. prvi
+2. drugi
+3. tretji
 
-**Bold** and _Italic_ and `Code` text
+## **debelo** in _poševno_
+to pa lahko napišem še zvezdica2krtBESEDILO2krtzvezdica in dobim **bold** ali podčrtajBESEDILOpodčrtaj in dobim _italic_
 
-[Link](url) and ![Image](src)
-```
+## LINKI
+za linkanje shita rabm altgrFinG pa napišem altgrFNEKEJZALINKaltgrG oklepajURLzaklepaj torej...
+[KDORTOBERE] (www.kdortobere.si 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## fotke
+za slikco pa še mal pobrskam
+(nekej v temu smislu)  >>> ![Image](src) <<<
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kdortobere/jebemtimatervdrugogrerado/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### tale page je kao naredu **andre** čeprov v resnici _blage_
